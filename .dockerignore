@@ -1,0 +1,19 @@
+# Python
+.venv
+__pycache__
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# Private docs
+docs/private
+
+# Generated data
+data_generation/output
+checkpoints
+
+# OS
+.DS_Store
+Thumbs.db

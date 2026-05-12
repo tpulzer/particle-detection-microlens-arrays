@@ -1,0 +1,13 @@
+# This file contains python dependencys for training/ data pipeline
+
+
+torch
+torchvision
+opencv-python
+albumentations
+matplotlib
+numpy
+onnx
+onnxscript
+onnxruntime-gpu
+PyYAML

@@ -1,0 +1,15 @@
+# =========================================================
+# Inference Configuration
+# =========================================================
+
+
+inference:
+  image_size: 512
+  threshold: 0.5
+
+paths:
+  model_path: "models/particle_unet.onnx"
+  input_dir: "data/val_data/images"
+  mask_dir: "data/val_data/masks"
+  output_dir: "data/inference_results"
+  preview_dir: "data/inference_previews"

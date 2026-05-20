@@ -1,5 +1,5 @@
 # End-to-End Deep Learning Pipeline for Particle Detection on Microlens Arrays
-Tony Pulzer · Systems Engineer · Automation / Machine Vision / Real-Time Systems · mail@t-pulzer.com
+Tony Pulzer · Senior Automation & Machine Vision Engineer · mail@t-pulzer.com
 
 ## Abstract
 
